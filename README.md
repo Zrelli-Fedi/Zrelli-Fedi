@@ -1,15 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedi Zrelli===================================================================================================================================Embedded Systems and Robotics Engineer--------------------------------------I've been coding C/C++ for 6 years, and I focused on automation systems, and after building knowledge I started concentrating on the Internet of Things and Mobile Robots.* 🌍  I'm based in Monastir, Tunisia* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/zrelli-fedi/)* ✉️  You can contact me at [fedizrelli3@gmail.com](mailto:fedizrelli3@gmail.com)* 🚀  I'm currently working on [Freelancer](http://www.upwork.com/freelancers/~018fe8205a1181fb2f)* 🧠  I'm learning Linux architecture, ROS2 and Altium designer* 🤝  I'm open to collaborating on Robotics and IoT* ⚡  I can kick myself in the head, and accept any challange that can push my knowledge.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedi Zrelli
+===================================================================================================================================
 
+Embedded Systems and Robotics Engineer
+--------------------------------------
+
+I've been coding C/C++ for 6 years, and I focused on automation systems, and after building knowledge I started concentrating on the Internet of Things and Mobile Robots.
+
+*   🌍  I'm based in Monastir, Tunisia
+*   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/zrelli-fedi/)
+*   ✉️  You can contact me at [fedizrelli3@gmail.com](mailto:fedizrelli3@gmail.com)
+*   🚀  I'm currently working on [Freelancer](http://www.upwork.com/freelancers/~018fe8205a1181fb2f)
+*   🧠  I'm learning Linux architecture, ROS2 and Altium designer
+*   🤝  I'm open to collaborating on Robotics and IoT
+*   ⚡  I can kick myself in the head, and accept any challange that can push my knowledge.
 <a href="https://www.twitter.com/ZrelliFedi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ZrelliFedi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/Zrelli-Fedi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/twitter/follow/ZrelliFedi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/Zrelli-Fedi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
-
-
+### Skills 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
+                    
 
-### Socials<p align="left"> <a href="https://discord.com/users/zrelli-fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fedi_zrelli_officiel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zrelli-fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ZrelliFedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                  ### Socials
+                  
+                  <p align="left"> <a href="https://discord.com/users/zrelli-fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fedi_zrelli_officiel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zrelli-fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ZrelliFedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
