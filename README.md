@@ -53,3 +53,5 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+<iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
