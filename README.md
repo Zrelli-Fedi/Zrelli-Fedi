@@ -24,7 +24,7 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 
 ### Skills 
 <p align="left">
-<a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1s7EF4gRJA8AIeEZtPo4itQiny9wHQwQA/view?usp=sharing" width="36" height="36" alt="C" /></a>
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" width="36" height="36" alt="ROS" /></a>
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 
