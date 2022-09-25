@@ -24,6 +24,8 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 
 ### Skills 
 <p align="left">
+<a href="https://espressif.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" width="36" height="36" alt="Arduino" /> </a>
+  
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" width="36" height="36" alt="Arduino" /> </a>
   
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" width="36" height="36" alt="ROS" /> </a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
