@@ -56,5 +56,6 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 
 </br>
 <div id="header" align="center">
- <p align="left"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/bi6RQ5x3tqoSI)" width="100"/>
+ <p align="left"> <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="100"/>
 </div>
+
