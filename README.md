@@ -13,6 +13,7 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 *   🧠  I'm learning Linux architecture, ROS2 and Altium designer
 *   🤝  I'm open to collaborating on Robotics and IoT
 *   ⚡  I can kick myself in the head, and accept any challange that can push my knowledge.
+</br>
 <a href="https://www.twitter.com/ZrelliFedi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ZrelliFedi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><img
