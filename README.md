@@ -18,6 +18,9 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
                   src="https://img.shields.io/twitter/follow/ZrelliFedi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Zrelli-Fedi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### Skills 
 <p align="left">
