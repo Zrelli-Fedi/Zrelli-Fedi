@@ -9,7 +9,7 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 *   🌍  I'm based in Monastir, Tunisia
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/zrelli-fedi/)
 *   ✉️  You can contact me at [fedizrelli3@gmail.com](mailto:fedizrelli3@gmail.com)
-*   🚀  I'm currently working on [UpWork] as a freelancer(http://www.upwork.com/freelancers/~018fe8205a1181fb2f)
+*   🚀  I'm currently working as a freelancer on [UpWork](http://www.upwork.com/freelancers/~018fe8205a1181fb2f)
 *   🧠  I'm learning Linux architecture, ROS2 and Altium designer
 *   🤝  I'm open to collaborating on Robotics and IoT
 *   ⚡  I can kick myself in the head, and accept any challange that can push my knowledge.
