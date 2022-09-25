@@ -54,8 +54,4 @@ I've been coding C/C++ for 6 years, and I focused on automation systems, and aft
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-</br>
-<div id="header" align="center">
- <p align="left"> <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="100"/>
-</div>
 
