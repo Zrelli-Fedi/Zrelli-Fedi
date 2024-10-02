@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded Systems and Robotics Engineer
 --------------------------------------
 
-I've been coding C/C++ for 6 years, and I focused on automation systems, and after building knowledge I started concentrating on the Internet of Things and Mobile Robots( ROV,DRONE and AGV).
+I've been doing embededd projects for 6 years, and I focused on automation systems, and after building knowledge I started concentrating on the Internet of Things and Mobile Robots( ROV,DRONE and AGV).
 
 *   🌍  I'm based in Monastir, Tunisia
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/zrelli-fedi/)
