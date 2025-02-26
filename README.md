@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedi Zrelli
 ===================================================================================================================================
 
-Embedded Systems and Robotics Engineer
+Embedded Systems & Functional Safety Engineer | Ensuring Safety for Underwater Robotics @Mare Custos
 --------------------------------------
 
 I've been doing embededd projects for 6 years, and I focused on automation systems, and after building knowledge I started concentrating on the Internet of Things and Mobile Robots( ROV,DRONE and AGV).
