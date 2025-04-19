@@ -6,7 +6,7 @@ Embedded Systems & Functional Safety Engineer | Ensuring Safety for Underwater R
 
 I've been doing embededd projects for 6 years, and I focused on automation systems, and after building knowledge I started concentrating on the Internet of Things and Mobile Robots( ROV,DRONE and AGV).
 
-*   🌍  I'm based in Monastir, Tunisia
+*   🌍  I'm based in Gammarth, Tunis, Tunisia
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/zrelli-fedi/)
 *   ✉️  You can contact me at [fedizrelli3@gmail.com](mailto:fedizrelli3@gmail.com)
 *   🚀  I'm currently working as a freelancer on [UpWork](http://www.upwork.com/freelancers/~018fe8205a1181fb2f)
