@@ -9,6 +9,12 @@ I've been doing embededd projects for 6 years, and I focused on automation syste
 *   🌍  I'm based in Gammarth, Tunis, Tunisia
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/zrelli-fedi/)
 *   ✉️  You can contact me at [fedizrelli3@gmail.com](mailto:fedizrelli3@gmail.com)
+* <a href="https://www.f6s.com/member/zrelli-fedi?follow=1" target="_blank"
+title="Follow Zrelli Fedi
+on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png"
+border="0" width="78" height="22 "
+alt="Follow Zrelli Fedi on F6S" style="width: 78px; height: 22px;
+padding: 0px; margin: 0px;" /></a>
 *   🚀  I'm currently working as a freelancer on [UpWork](http://www.upwork.com/freelancers/~018fe8205a1181fb2f)
 *   🧠  I'm learning Linux architecture, ROS2 and Altium designer
 *   🤝  I'm open to collaborating on Robotics and IoT
@@ -40,12 +46,7 @@ I've been doing embededd projects for 6 years, and I focused on automation syste
 ### Socials
                   
 <p align="left"> <a href="https://discord.com/users/zrelli-fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zrelli-Fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fedi_zrelli_officiel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zrelli-fedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ZrelliFedi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-<a href="https://www.f6s.com/member/zrelli-fedi?follow=1" target="_blank"
-title="Follow Zrelli Fedi
-on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png"
-border="0" width="78" height="22 "
-alt="Follow Zrelli Fedi on F6S" style="width: 78px; height: 22px;
-padding: 0px; margin: 0px;" /></a>
+
 
 ### Badges
 
